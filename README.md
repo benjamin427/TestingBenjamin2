@@ -1,4 +1,4 @@
-This was tested from the website PHP Travels
+This framework was developed to test the e-commerce website PHP Travels
 
 Requirements
 
